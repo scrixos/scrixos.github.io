@@ -1,2 +1,2 @@
 # scrixos.github.io
-test
+Personal website :)
