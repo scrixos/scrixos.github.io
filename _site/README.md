@@ -1,2 +1,0 @@
-# scrixos.github.io
-test
