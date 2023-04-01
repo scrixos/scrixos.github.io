@@ -1,6 +1,8 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 ---
 This is my about page.
+
+I use she/they pronouns.
