@@ -4,6 +4,3 @@
 
 layout: home
 ---
-tabletop roleplaying games, digital art, and occasional code projects
-
-
