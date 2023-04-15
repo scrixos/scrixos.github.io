@@ -1,0 +1,10 @@
+---
+layout: page
+title: 404
+permalink: /404.markdown
+---
+Page not found :(
+
+The requested page could not be found.
+
+Please roll again.

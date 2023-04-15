@@ -1,0 +1,28 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title{
+    font-weight: 400;
+    &,
+    &:visited {
+    color: dodgerblue;
+ }}
+
+ .site-nav{
+    .page-link{
+        color: dodgerblue;
+    }
+ }
+
+body {background-color: #111}
+body {color: snow}
+body {accent-color: royalblue}
+body {text-emphasis-color: red;}
+
+pre,code {
+    background-color: lightgray;
+    color: darkviolet;
+}
